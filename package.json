@@ -2,7 +2,7 @@
   "name": "node-passport-auth",
   "version": "1.0.0",
   "description": "Authentication app",
-  "main": "functions/server.js",
+  "main": "server-local.js",
   "scripts": {
     "start": "node server-local.js",
     "dev": "nodemon server-local.js",
